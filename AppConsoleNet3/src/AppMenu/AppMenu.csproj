@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <!-- <ItemGroup>
-    <ProjectReference Include="src\Body\Body.csproj" />
-  </ItemGroup> -->
+  <ItemGroup>
+    <ProjectReference Include="..\BodyLib\BodyLib.csproj" />
+  </ItemGroup>
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
